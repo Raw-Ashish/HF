@@ -4,7 +4,7 @@ A full-featured luxury dark-gold business website for **Hacking Freaks Digital A
 
 ---
 
-## Live Demo
+## [Live Demo]((https://hackingfreaks.vercel.app))
 
 > Deploy to Vercel, Netlify, or any static host. Firebase handles all data and authentication.
 
