@@ -77,7 +77,7 @@ A full-featured luxury dark-gold business website for **Hacking Freaks Digital A
 ## Project Structure
 
 ```
-artifacts/business-site/
+HackingFreaks/
 ├── index.html                          # HTML entry — OG tags, fonts, favicon
 ├── src/
 │   ├── App.tsx                         # Router, ScrollToTop, SeoUpdater, FirebaseGate
